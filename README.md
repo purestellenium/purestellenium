@@ -1,7 +1,9 @@
-<h1 align="center">🪐 hey, i'm maxstellar! i do silly things 💫</h1>
+**👋 hey, I'm max, and i do silly things and build silly projects.**
 
-you might know me from:
+#### you might know me from:
 - hack club
 - sol's rng macro dev
 - my youtube channel
 or more!
+
+> maxtran[@]hackclub.com
