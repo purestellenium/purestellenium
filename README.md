@@ -1,4 +1,4 @@
-**👋 hey, I'm max, and i do silly things and build silly projects.**
+**👋 hey, I'm max! i do silly things and build silly projects.**
 
 #### you might know me from:
 - hack club
