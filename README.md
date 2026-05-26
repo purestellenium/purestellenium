@@ -2,7 +2,7 @@
 
 #### you might know me from:
 - hack club
-- sol's rng macro dev
+- sol's rng macros
 - my youtube channel
 or more!
 
